@@ -39,7 +39,7 @@ A quarta imagem também foi baixada da internet e contém um titulo e um subtít
 <img src="https://github.com/silvanat/microsoft-copillot/blob/main/inputs/ia_agronegocio.png" width="300px"><br><br>
 o prompt: ``` extraia o conteúdo de texto da imagem e a partir desse conteúdo gere um texto contendo pelo menos 1000 caracteres para especialistas na área. E no final converta esse texto em pdf disponibilizando para download.```<br><br>
 De fato, ela gerou o link para download. E esse link é do sandbox. E infelizmente não consegui baixar no meu computador. A partir daí foram feitas solicitações à IA para tentar gerar novamente. Ela não conseguiu e ao final do processo sugeriu que copiasse o conteúdo e gerasse o pdf manualmente! 😃 <br>
-O resultado pode ser vito <a href="https://github.com/silvanat/microsoft-copillot/blob/main/output/copilot_ia_agronegocio.png">aqui</a>.<br><br>
+O resultado pode ser visto <a href="https://github.com/silvanat/microsoft-copillot/blob/main/output/copilot_ia_agronegocio.png">aqui</a>.<br><br>
 
 ## Conclusão
 Para extração de textos feitos pelo Copilot, o resultado é muito assertivo, desde escritas à mão quanto em textos com figuras. A ferramenta está se desenvolvendo muito bem. O único problema que tive foi para efetuar o download do PDF. A impressão que eu tive, no meu caso, foi por não ter uma conta corporativa. Vale a pena continuar com os testes para, cada vez mais, descobrimos as inúmeras possibilidades que a ferramenta pode nos proporcionar.
